@@ -47,6 +47,19 @@ h2 {
 
 a {
     margin: 0 10px;
+    text-decoration: none;
+    padding: 10px;
+}
+
+a:link {
+    color: white;
+    border: 1px solid #FFCB05;
+}
+
+a:hover {
+    background-color: #FFCB05;
+    color: #00274C;
+    border: 1px solid #FFCB05;
 }
 
 h1, a, span {
