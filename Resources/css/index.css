@@ -52,7 +52,7 @@ a {
 }
 
 a:link {
-    color: white;
+    color: #FFCB05;
     border: 1px solid #FFCB05;
 }
 
@@ -104,9 +104,11 @@ p {
     .flex-container {
         display: none;
     }
+    
     .portrait {
         display: block;
     }
+    
     #top {
         margin: 20px auto;
         text-align: center;
