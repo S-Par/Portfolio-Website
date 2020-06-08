@@ -80,6 +80,10 @@ p {
     align-items: center;
 }
 
+.portrait {
+    display: none;
+}
+
 #left {
     text-align: center;
 }
@@ -94,4 +98,31 @@ p {
     text-align: center;
     font-weight: 300;
     font-size: 1.3em;
+}
+
+@media only screen and (max-width: 660px) {
+    .flex-container {
+        display: none;
+    }
+    .portrait {
+        display: block;
+    }
+    #top {
+        margin: 20px auto;
+        text-align: center;
+    }
+
+
+    img {
+        margin: 10px auto;
+    }
+
+    p {
+        width: 80%;
+        margin: 30px auto;
+    }
+
+    a {
+        margin: 20px 10px;
+    }
 }
