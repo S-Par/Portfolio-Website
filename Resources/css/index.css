@@ -107,6 +107,7 @@ p {
     
     .portrait {
         display: block;
+        margin-bottom: 40px;
     }
     
     #top {
