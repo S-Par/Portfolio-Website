@@ -1,3 +1,3 @@
 # Sid's Portfolio
 \
-Find a simple portfolio webpage of mine at: https://s-par.github.io/Portfolio-Website/index.html
+A Portfolio webpage hosted via Github Pages that can be found at: https://s-par.github.io/Portfolio-Website/index.html
