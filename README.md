@@ -1,3 +1,4 @@
 # Sid's Portfolio
-\
-A Portfolio webpage hosted via Github Pages that can be found at: https://s-par.github.io/Portfolio-Website/index.html
+
+A single-page [Portfolio website](https://s-par.github.io/Portfolio-Website/).  
+Created using HTML, CSS, and Bootstrap. Hosted using Github Pages.  
